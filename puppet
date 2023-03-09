@@ -1,0 +1,7 @@
+Puppet is a software configuration management tool which includes its own declarative language to describe system configuration. It is a model-driven solution that requires limited programming knowledge to use.[3]
+
+Puppet is produced by Puppet Inc., founded by Luke Kanies in 2005. Its primary product, Puppet Enterprise,[4] is a proprietary and closed-source version of its open-source Puppet software. They use Puppet's declarative language to manage stages of the IT infrastructure lifecycle, including the provisioning, patching, configuration, and management of operating system and application components in data centers and cloud infrastructures.[5]
+
+Puppet uses an open-core model; its free-software version was released under version 2 of the GNU General Public License (GPL) until version 2.7.0,[6] and later releases use the Apache License, while Puppet Enterprise uses a proprietary license.
+
+Puppet and Puppet Enterprise operate on multiple Unix-like systems (including Linux, Solaris, BSD, Mac OS X, AIX, HP-UX) and has Microsoft Windows support.[7][8] Puppet itself is written in Ruby, while Facter is written in C++, and Puppet Server and Puppet DB are written in Clojure.[9] 
